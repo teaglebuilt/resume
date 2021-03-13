@@ -1,0 +1,21 @@
+{
+    "Name": "Dillan Teagle",
+    "Title": "Software Engineer",
+    "Location": "Murfreesboro, TN",
+    "Contact": {
+        "Email": "dillan.teagle.va@gmail.com"
+    },
+    "Skills": {
+        "Frontend": [
+            "ReactJS",
+            "NextJS",
+            "GatsbyJS",
+            "Node.JS",
+            "VanillaJS",
+            "JQuery"
+        ],
+        "Backend": [],
+        "DevOps": []
+    },
+    "Experience": {}
+}
